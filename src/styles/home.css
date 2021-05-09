@@ -1,0 +1,17 @@
+/* home section styling plus icon */
+
+#addBtn{
+    font-size: 20px;
+    width:35px;
+    height: 35px;
+    border-radius: 50%;
+    outline: none;
+    background-color: rgb(0, 30, 128);
+    color: white;
+    border: none;
+    cursor: pointer;
+    position: fixed;
+    right: 0;
+    bottom: 50px;
+    right: 50px;
+  }

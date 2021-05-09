@@ -1,0 +1,40 @@
+/* books comp styling */
+
+.lists{
+    display: flex;
+    height: 300px;
+  }
+  .books{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+  .info{
+    width:150px;
+    margin:10px 25px; 
+  }
+  .info>div:nth-child(2){
+    font-weight: bold;
+  }
+  .info img{
+    width: 150px;
+    height: 150px;
+  }
+  .info>div:first-child{
+    display: flex;
+  }
+  select[name="type"]{
+    align-self: flex-end;
+    margin-left: -20px;
+    cursor: pointer;
+  }
+  .info select{
+    width:20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: green;
+    outline: none;
+  }
+  select option{
+    background-color: white;
+  }

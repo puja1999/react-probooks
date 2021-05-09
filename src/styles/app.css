@@ -1,0 +1,15 @@
+.header{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 50px;
+  text-align: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.884);
+  height: 50px;
+  margin-top: 5px;
+}
+
+
+
+

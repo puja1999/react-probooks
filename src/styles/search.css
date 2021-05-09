@@ -1,0 +1,19 @@
+#searchbar{
+    width:98%;
+    height:25px;
+    border:2px solid rgba(0, 0, 0, 0.473);
+    margin:10px 6px;
+    outline: none;
+}
+
+#books-found{
+    font-size: 20px;
+    font-family: serif;
+    font-weight: 400;
+}
+
+.search{
+    display: flex;
+    width:100%;
+    flex-wrap: wrap;
+}
