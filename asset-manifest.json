@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-probooks/static/css/main.0a35c9b3.chunk.css",
+    "main.js": "/react-probooks/static/js/main.7d5e8f06.chunk.js",
+    "main.js.map": "/react-probooks/static/js/main.7d5e8f06.chunk.js.map",
+    "runtime-main.js": "/react-probooks/static/js/runtime-main.344cf1f0.js",
+    "runtime-main.js.map": "/react-probooks/static/js/runtime-main.344cf1f0.js.map",
+    "static/js/2.04c56f0d.chunk.js": "/react-probooks/static/js/2.04c56f0d.chunk.js",
+    "static/js/2.04c56f0d.chunk.js.map": "/react-probooks/static/js/2.04c56f0d.chunk.js.map",
+    "index.html": "/react-probooks/index.html",
+    "static/css/main.0a35c9b3.chunk.css.map": "/react-probooks/static/css/main.0a35c9b3.chunk.css.map",
+    "static/js/2.04c56f0d.chunk.js.LICENSE.txt": "/react-probooks/static/js/2.04c56f0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.344cf1f0.js",
+    "static/js/2.04c56f0d.chunk.js",
+    "static/css/main.0a35c9b3.chunk.css",
+    "static/js/main.7d5e8f06.chunk.js"
+  ]
+}
